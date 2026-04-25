@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.log
+*.pem
+.it-aman/
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+{
+  "version": "3.2",
+  "files": {
+    "src/daemon.py": "be374ab1b2d857a8852ee9d908d3c1992b147b8c1b4e2d7635da60faad14678d",
+    "src/gui.py": "536bdcb365f8c27943234b1deb9e0ac230d4f3558700402ea2e5118f7827b1e3",
+    "data.json": "4e80a895f68c9400845a14935f95451ec1af139d802d5da0cac3b74c3374fb62",
+    "version.json": "cb079bc65770f840eb1b0026739d8dc18c04c0e16d022b5bcd2caec060029368"
+  },
+  "changelog": "v3.2: Update release",
+  "signature": "n9s07R1KA7HPueuMdvGvGRkOredn4TFfSmfNpOmt9iJse8q5nxvpUPQmU2B+HJNGXvJaYYFkyBWpbNc2rJpKBw=="
+}

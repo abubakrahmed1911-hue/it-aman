@@ -1,0 +1,52 @@
+{
+  "branches": [
+    {
+      "branch_id": "MEGA-CAIRO-01",
+      "branch_name": "MEGA Cairo Branch 1",
+      "printers": [
+        {
+          "name": "HP-LaserJet-4015",
+          "ip": "192.168.1.50",
+          "model": "HP LaserJet 4015",
+          "driver": ""
+        },
+        {
+          "name": "Kyocera-FS-4200",
+          "ip": "192.168.1.51",
+          "model": "Kyocera FS-4200DN",
+          "driver": ""
+        }
+      ]
+    },
+    {
+      "branch_id": "MEGA-ALEX-01",
+      "branch_name": "MEGA Alexandria Branch 1",
+      "printers": [
+        {
+          "name": "HP-Color-M455",
+          "ip": "192.168.2.50",
+          "model": "HP Color LaserJet M455",
+          "driver": ""
+        }
+      ]
+    },
+    {
+      "branch_id": "MEGA-GIZA-01",
+      "branch_name": "MEGA Giza Branch 1",
+      "printers": [
+        {
+          "name": "Brother-HL-L2350",
+          "ip": "192.168.3.50",
+          "model": "Brother HL-L2350DW",
+          "driver": ""
+        },
+        {
+          "name": "Thermal-Receipt-80mm",
+          "ip": "",
+          "model": "Thermal Receipt Printer 80mm",
+          "driver": ""
+        }
+      ]
+    }
+  ]
+}
